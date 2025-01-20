@@ -23,3 +23,5 @@
 2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-2, Term-1\CE 203 (Geology & Geomorphology)\CE 203 (Geology & Geomorphology)\Geology.....Tahmeed sir\Slide\desktop.ini -> D:/Academic Drive\B.Sc Parvez\Level-2, Term-1\CE 203 (Geology & Geomorphology)\CE 203 (Geology & Geomorphology)\Geology.....Tahmeed sir\Slide\desktop.ini
 2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-4, Term-2\CE 457 (Transportation Engineering V- Urban Transportation Planning and Management)\Annesha ma'am\Book\D Johnson Victor_ S. Ponnuswamy - Urban transportation _ planning, operation and management (2012, McGraw-Hill Education) - libgen.lc.pdf -> D:/Academic Drive\B.Sc Parvez\Level-4, Term-2\CE 457 (Transportation Engineering V- Urban Transportation Planning and Management)\Annesha ma'am\Book\D Johnson Victor_ S. Ponnuswamy - Urban transportation _ planning, operation and management (2012, McGraw-Hill Education) - libgen.lc.pdf
 ================
+2025-01-21_03-04-18 - Rename: Before Rename: D:/Academic Drive/New Text Document.txt -> After Rename: D:/Academic Drive\_New Text Document.txt
+================

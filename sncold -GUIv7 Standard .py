@@ -5,6 +5,18 @@ import datetime
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import ttk  # Import themed tkinter for enhanced widgets
+
+"""
+source_folder = ""
+destination_folder = ""
+log_filename = "sync_log.txt"
+"""
+
+source_folder = "L:/Academic/"
+destination_folder = "D:/Academic Drive/"
+log_filename = "sync_log.txt"
+
+
 def copy_with_progress(src_path, dest_path):
     total_size = os.path.getsize(src_path)
     
@@ -78,11 +90,12 @@ def append_to_log(log_file, message):
 def apply_changes(changes):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     #log_filename = "D:\\4_1 metarials\\syncv6_log_oldbatch.txt"
-    log_filename = "sync_log.txt"
+    global log_filename
+   
     script_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(script_dir)
     print(f"Current working directory: {os.getcwd()}")
-
+    
     for action, source, dest in changes:
         try:
             if action == "Copy":
@@ -117,7 +130,8 @@ def apply_changes(changes):
         except Exception as e:
             append_to_log(log_filename, f"{timestamp} - Error: {action} {source} -> {dest} - {e}")
     append_to_log(log_filename,"================");
-    print("Changes applied successfully. Log updated in sync_log.txt")
+    print(f"Changes applied successfully. Log updated in {log_filename}")
+
 
 def create_subfolders(destination_folder, relative_path):
     subfolders = os.path.dirname(relative_path)
@@ -129,8 +143,7 @@ def create_subfolders(destination_folder, relative_path):
             os.mkdir(current_folder)
 
 
-source_folder = ""
-destination_folder = ""
+
 
 def select_source_folder():
     global source_folder
@@ -150,6 +163,15 @@ def confirm_changes():
     #source_folder = "F:\\Explore\\Python\\Sync\\A1"
     #destination_folder = "F:\\Explore\\Python\\Sync\\A2"
     #destination_folder = "D:\\4_1 metarials\\L4T1_old_batch\\Senior BATCH"
+
+    if not os.path.exists(source_folder):
+        tk.messagebox.showerror("Error", "Source folder does not exist. Please select a valid folder.")
+        return
+    if not os.path.exists(destination_folder):
+        tk.messagebox.showerror("Error", "Destination folder does not exist. Please select a valid folder.")
+        return
+    
+
     changes = list_changes(source_folder, destination_folder)
     for i, (action, source, dest) in enumerate(changes, start=1):
         print(f"{i}. {action}: {source} -> {dest}")
@@ -192,15 +214,19 @@ frame.pack(fill=tk.BOTH, expand=True)
 
 # Create themed labels and buttons
 source_label = ttk.Label(frame, text="Source Folder:")
-source_folder_label = ttk.Label(frame, text="")
+source_folder_label = ttk.Label(frame, text=source_folder)
 source_button = ttk.Button(frame, text="Select Source Folder", command=select_source_folder)
 
 destination_label = ttk.Label(frame, text="Destination Folder:")
-destination_folder_label = ttk.Label(frame, text="")
+destination_folder_label = ttk.Label(frame, text=destination_folder)
 destination_button = ttk.Button(frame, text="Select Destination Folder ", command=select_destination_folder)
 #destination_button.config(state="disabled")
+
+
 #source_button = tk.Button(root, text="Select Source Folder \L4T1", command=select_source_folder)
 #destination_button = tk.Button(root, text="Select Destination Folder:D:\\4_1 metarials\L4T1", command=select_destination_folder)
+
+
 confirm_button = ttk.Button(frame, text="Confirm Changes", command=confirm_changes)
 
 # Organize widgets using grid layout
