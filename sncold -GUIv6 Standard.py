@@ -77,8 +77,12 @@ def append_to_log(log_file, message):
 
 def apply_changes(changes):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    log_filename = "D:\\4_1 metarials\\syncv6_log_oldbatch.txt"
-    
+    #log_filename = "D:\\4_1 metarials\\syncv6_log_oldbatch.txt"
+    log_filename = "sync_log.txt"
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_dir)
+    print(f"Current working directory: {os.getcwd()}")
+
     for action, source, dest in changes:
         try:
             if action == "Copy":

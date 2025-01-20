@@ -1,0 +1,25 @@
+2025-01-20_23-10-37 - Rename: Before Rename: I:/Git/test/1\New Text Document.txt -> After Rename: I:/Git/test/1\_New Text Document.txt
+================
+2025-01-20_23-12-06 - Copy: I:/Git/test/1\New Text Document.txt -> I:/Git/test/2\New Text Document.txt
+================
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L1-T1\desktop.ini -> D:/Academic Drive\B.Sc\L1-T1\desktop.ini
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L1-T2\desktop.ini -> D:/Academic Drive\B.Sc\L1-T2\desktop.ini
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L1-T2\L1 T2 _ Collected Slide\desktop.ini -> D:/Academic Drive\B.Sc\L1-T2\L1 T2 _ Collected Slide\desktop.ini
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\desktop.ini -> D:/Academic Drive\B.Sc\L2T1\desktop.ini
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_15\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_15\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_15\Problems\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_15\Problems\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_16\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_16\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_16\Problems\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_16\Problems\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_16\Solutions\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_16\Solutions\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_17\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_17\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_17\Problems\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_17\Problems\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_18\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_18\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_18\Problems\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_18\Problems\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_19\.DS_Store -> D:/Academic Drive\B.Sc\L2T1\chotha\ce 211\Books\BeerJohnstonVectorMechanicsStaticsDynamics8e\8e\CH_19\.DS_Store
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc\L3T2\desktop.ini -> D:/Academic Drive\B.Sc\L3T2\desktop.ini
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-2, Term-1\CE 201 (Materials)\CE 201 (Materials)\Mokhles sir\~WRL1105.tmp -> D:/Academic Drive\B.Sc Parvez\Level-2, Term-1\CE 201 (Materials)\CE 201 (Materials)\Mokhles sir\~WRL1105.tmp
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-2, Term-1\CE 201 (Materials)\CE 201 (Materials)\Snigdha maam\Slide\SS\~WRL0058.tmp -> D:/Academic Drive\B.Sc Parvez\Level-2, Term-1\CE 201 (Materials)\CE 201 (Materials)\Snigdha maam\Slide\SS\~WRL0058.tmp
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-2, Term-1\CE 201 (Materials)\Mokhles sir\~WRL1105.tmp -> D:/Academic Drive\B.Sc Parvez\Level-2, Term-1\CE 201 (Materials)\Mokhles sir\~WRL1105.tmp
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-2, Term-1\CE 203 (Geology & Geomorphology)\CE 203 (Geology & Geomorphology)\Geology.....Tahmeed sir\Slide\desktop.ini -> D:/Academic Drive\B.Sc Parvez\Level-2, Term-1\CE 203 (Geology & Geomorphology)\CE 203 (Geology & Geomorphology)\Geology.....Tahmeed sir\Slide\desktop.ini
+2025-01-20_23-20-51 - Copy: L:/Academic\B.Sc Parvez\Level-4, Term-2\CE 457 (Transportation Engineering V- Urban Transportation Planning and Management)\Annesha ma'am\Book\D Johnson Victor_ S. Ponnuswamy - Urban transportation _ planning, operation and management (2012, McGraw-Hill Education) - libgen.lc.pdf -> D:/Academic Drive\B.Sc Parvez\Level-4, Term-2\CE 457 (Transportation Engineering V- Urban Transportation Planning and Management)\Annesha ma'am\Book\D Johnson Victor_ S. Ponnuswamy - Urban transportation _ planning, operation and management (2012, McGraw-Hill Education) - libgen.lc.pdf
+================
